@@ -1,1 +1,5 @@
-Record=TopLevelDocument|FileName=Kernel.SchDoc
+Record=TopLevelDocument|FileName=Main.SchDoc
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Kernel|SchDesignator=Kernel|FileName=Kernel.SchDoc|SymbolType=Normal|RawFileName=Kernel.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=MemoryUnit|SchDesignator=MemoryUnit|FileName=MemoryUnit.SchDoc|SymbolType=Normal|RawFileName=MemoryUnit.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=USB OTG|SchDesignator=USB OTG|FileName=USBOTGUnit.SchDoc|SymbolType=Normal|RawFileName=USBOTGUnit.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=WiFi|SchDesignator=WiFi|FileName=WiFiKernel.SchDoc|SymbolType=Normal|RawFileName=WiFiKernel.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
